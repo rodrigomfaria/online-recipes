@@ -12,10 +12,11 @@ typing-extensions = "==4.12.2"
 faker = "==33.3.0"
 python-dateutil = "==2.9.0.post0"
 six = "==1.17.0"
+pillow = "==11.2.1"
 
 [dev-packages]
-black = "*"
-flake8 = "*"
+black = "25.1.0"
+flake8 = "7.2.0"
 
 [requires]
 python_version = "3.10"
